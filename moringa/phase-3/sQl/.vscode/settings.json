@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "db.shkcpixdqqezltoxuoik.supabase.co",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "RIP",
+            "database": "postgres",
+            "group": "RIP",
+            "username": "postgres",
+            "password": "Ur6zsz4SaD0qwuO7"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "RIP SQL",
+            "database": "${workspaceFolder:sQl}/SQL/SQLITEDBS/init.db"
+        }
+    ]
+}
